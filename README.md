@@ -50,7 +50,8 @@
 
 ![BINARY WEB ECOLOGY](https://github.com/justlorain/justlorain/blob/main/images/BINARY-WEB-ECO.png)
 
-<p align="center">
+<br>
+<h3 align="center">
 <b>BINARY</b><br><br>
-NATURE IS OUR GUIDANCE
-</p>
+—— NATURE IS OUR GUIDANCE ——
+</h3>
