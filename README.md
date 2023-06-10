@@ -50,6 +50,12 @@
 
 ![BINARY WEB ECOLOGY](https://github.com/justlorain/justlorain/blob/main/images/BINARY-WEB-ECO.png)
 
+### June 11th, 2023
+
+- **VIOLIN** Launched
+
+![VIOLIN](https://github.com/B1NARY-GR0UP/violin/blob/main/images/VIOLIN.png)
+
 <br>
 <h3 align="center">
 —————————————— NATURE IS OUR GUIDANCE ——————————————
