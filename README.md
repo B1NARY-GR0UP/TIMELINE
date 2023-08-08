@@ -56,6 +56,12 @@
 
 ![VIOLIN](https://github.com/B1NARY-GR0UP/violin/blob/main/images/VIOLIN.png)
 
+### August 9th, 2023
+
+- **Basic Middleware Service** Established
+
+![BMS](https://github.com/justlorain/justlorain/blob/main/images/BMS.png)
+
 <br>
 <h3 align="center">
 —————————————— NATURE IS OUR GUIDANCE ——————————————
