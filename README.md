@@ -62,6 +62,12 @@
 
 ![BMS](https://github.com/justlorain/justlorain/blob/main/images/BMS.png)
 
+### August 26th, 2023
+
+- **NWA** Launched
+
+![NWA](https://github.com/B1NARY-GR0UP/nwa/blob/main/images/NWA.png)
+
 <br>
 <h3 align="center">
 —————————————— NATURE IS OUR GUIDANCE ——————————————
