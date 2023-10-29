@@ -68,6 +68,12 @@
 
 ![NWA](https://github.com/B1NARY-GR0UP/nwa/blob/main/images/NWA.png)
 
+### September 10th, 2023
+
+- **GHS** Launched
+
+![GHS](https://github.com/B1NARY-GR0UP/ghs/blob/main/images/GHS.png)
+
 <br>
 <h3 align="center">
 —————————————— NATURE IS OUR GUIDANCE ——————————————
