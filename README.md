@@ -74,6 +74,12 @@
 
 ![GHS](https://github.com/B1NARY-GR0UP/ghs/blob/main/images/GHS.png)
 
+### November 2nd, 2023
+
+- **Make Your Life Simpler** Established
+
+![BMS](https://github.com/justlorain/justlorain/blob/main/images/MYLS.png)
+
 <br>
 <h3 align="center">
 —————————————— NATURE IS OUR GUIDANCE ——————————————
