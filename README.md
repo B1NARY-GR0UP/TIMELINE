@@ -80,6 +80,12 @@
 
 ![BMS](https://github.com/justlorain/justlorain/blob/main/images/MYLS.png)
 
+### November 3rd, 2023
+
+- **TABSNAPSHOT** Launched
+
+![TABSNAPSHOT](https://github.com/B1NARY-GR0UP/tabsnapshot/blob/main/images/TABSNAPSHOT.png)
+
 <br>
 <h3 align="center">
 —————————————— NATURE IS OUR GUIDANCE ——————————————
