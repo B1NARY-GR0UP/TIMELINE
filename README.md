@@ -90,6 +90,12 @@
 
 ![milestone2023](https://github.com/justlorain/justlorain/blob/main/images/milestone2023.png)
 
+### April 11th, 2024
+
+- **OPENALYSIS** Launched
+
+![OPENALYSIS](https://github.com/B1NARY-GR0UP/openalysis/blob/main/images/OPENALYSIS.png)
+
 <br>
 <h3 align="center">
 —————————————— NATURE IS OUR GUIDANCE ——————————————
