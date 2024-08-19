@@ -96,7 +96,4 @@
 
 ![OPENALYSIS](https://github.com/B1NARY-GR0UP/openalysis/blob/main/images/OPENALYSIS.png)
 
-<br>
-<h3 align="center">
-—————————————— NATURE IS OUR GUIDANCE ——————————————
-</h3>
+![BINARY-banner](https://github.com/justlorain/justlorain/blob/main/images/BINARY-banner.png)
