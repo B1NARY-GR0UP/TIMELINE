@@ -96,4 +96,10 @@
 
 ![OPENALYSIS](https://github.com/B1NARY-GR0UP/openalysis/blob/main/images/OPENALYSIS.png)
 
+### October 27th, 2024
+
+- **RAFT-FOIVER** Launched
+
+![RAFT-FOIVER](https://github.com/B1NARY-GR0UP/raft/blob/main/images/raft-foiver.png)
+
 ![BINARY-banner](https://github.com/justlorain/justlorain/blob/main/images/BINARY-banner.png)
