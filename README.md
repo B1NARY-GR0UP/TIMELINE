@@ -102,4 +102,10 @@
 
 ![RAFT-FOIVER](https://github.com/B1NARY-GR0UP/raft/blob/main/images/raft-foiver.png)
 
+### November 1st, 2024
+
+- **PROJECT: FOIVER** Established
+
+![PROJECT: FOIVER](https://github.com/justlorain/justlorain/blob/main/images/PROJECT-FOIVER.png)
+
 ![BINARY-banner](https://github.com/justlorain/justlorain/blob/main/images/BINARY-banner.png)
