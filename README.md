@@ -108,4 +108,10 @@
 
 ![PROJECT: FOIVER](https://github.com/justlorain/justlorain/blob/main/images/PROJECT-FOIVER.png)
 
+### December 10th, 2024
+
+- **ORIGINIUM** Launched
+
+![ORIGINIUM](https://github.com/B1NARY-GR0UP/originium/blob/main/images/ORIGINIUM.png)
+
 ![BINARY-banner](https://github.com/justlorain/justlorain/blob/main/images/BINARY-banner.png)
