@@ -114,4 +114,8 @@
 
 ![ORIGINIUM](https://github.com/B1NARY-GR0UP/originium/blob/main/images/ORIGINIUM.png)
 
+### Milestone 2024
+
+![milestone2024](https://github.com/justlorain/justlorain/blob/main/images/milestone2024.png)
+
 ![BINARY-banner](https://github.com/justlorain/justlorain/blob/main/images/BINARY-banner.png)
